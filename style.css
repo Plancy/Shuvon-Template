@@ -87,7 +87,7 @@ header h2 {
 .banner {
     animation: fadeIn 1s ease-in-out;
     margin-top: 50px;
-    /* Adjust margin-top to ensure it doesn't go too far up */
+
 }
 
 .banner h1 {
